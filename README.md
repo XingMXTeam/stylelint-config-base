@@ -3,7 +3,7 @@ This is my shared stylelint.
 
 ## Install
 ```js
-npm install --save-dev eslint-config-base-mxx stylelint-config-recommended
+npm install --save-dev eslint-config-base-edu stylelint-config-recommended
 ```
 
 ## Usage

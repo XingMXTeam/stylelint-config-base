@@ -1,5 +1,5 @@
 {
-  "name": "stylelint-config-base-mxx",
+  "name": "stylelint-config-base-edu",
   "version": "1.0.0",
   "description": "This is my shared stylelint.",
   "main": "index.js",
