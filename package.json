@@ -1,0 +1,30 @@
+{
+  "name": "stylelint-config-base-edu",
+  "version": "1.0.0",
+  "description": "This is my shared stylelint.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XingMXTeam/stylelint-config-base.git"
+  },
+  "peerDependencies": {
+    "stylelint": "^8.3.0 || ^9.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XingMXTeam/stylelint-config-base/issues"
+  },
+  "homepage": "https://github.com/XingMXTeam/stylelint-config-base#readme",
+  "dependencies": {
+    "eslint-config-base-mxx": "^1.0.0",
+    "stylelint-config-recommended": "^2.1.0"
+  },
+  "devDependencies": {
+    "stylelint": "^9.2.0",
+    "stylelint-no-unsupported-browser-features": "^3.0.0"
+  }
+}
