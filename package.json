@@ -1,5 +1,5 @@
 {
-  "name": "stylelint-config-base-edu",
+  "name": "stylelint-config-base-mxx",
   "version": "1.0.0",
   "description": "This is my shared stylelint.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/XingMXTeam/stylelint-config-base.git"
+    "url": "git+https://github.com/XingMXTeam/stylelint-config-base.git#master"
   },
   "peerDependencies": {
     "stylelint": "^8.3.0 || ^9.0.0"
