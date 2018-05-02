@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-base-edu",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "This is my shared stylelint.",
   "main": "index.js",
   "scripts": {
@@ -8,17 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/XingMXTeam/stylelint-config-base.git#master"
+    "url": "git+https://github.com/XingMXTeam/stylelint-config-base.git"
   },
   "peerDependencies": {
     "stylelint": "^8.3.0 || ^9.0.0"
   },
-  "author": "",
+  "author": "hzmaoxunxing",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/XingMXTeam/stylelint-config-base/issues"
   },
-  "homepage": "https://github.com/XingMXTeam/stylelint-config-base#readme",
+  "homepage": "https://github.com/XingMXTeam/stylelint-config-base#README",
   "dependencies": {
     "eslint-config-base-mxx": "^1.0.0",
     "stylelint-config-recommended": "^2.1.0"
