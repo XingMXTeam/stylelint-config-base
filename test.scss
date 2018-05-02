@@ -1,3 +1,11 @@
 .test {
-    display: flex;
+  display: table-cell;
+}
+
+.b {
+  display: flex;
+}
+
+ul li:nth-child(1){
+  color:#fff;
 }
